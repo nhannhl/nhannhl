@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Nhan,
+
+I'm a fullstack Javascript developer!
+
+<a href="https://app.daily.dev/HuuRobo"><img src="https://api.daily.dev/devcards/f5532c62ec4b4db1bfdd0c90d4646e41.png?r=gzk" width="400" alt="Hữu Robo's Dev Card"/></a>
+
 <!--
 **nhannhl/nhannhl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
